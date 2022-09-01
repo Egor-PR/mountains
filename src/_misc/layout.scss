@@ -2,6 +2,8 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+  font-family: 'OpenSansBold',sans-serif;
+  //font-family: 'Open Sans', sans-serif;
 }
 
 li {
@@ -12,7 +14,6 @@ a {
   text-decoration: none;
   
 }
-
 .body {
   font-size: 16px;
   line-height: 1.42;
@@ -23,6 +24,7 @@ a {
 }
 
 .wrapper {
+ 
   position: relative;
   width: 100%;
 
