@@ -1,0 +1,27 @@
+//_misc
+@import "_misc/layout.scss";
+
+//blocks hero
+@import "blocks/hero/hero.scss";
+@import "blocks/hero/header.scss";
+@import "blocks/hero/menu.scss";
+@import "blocks/hero/networks.scss";
+@import "blocks/hero/content.scss";
+@import "blocks/hero/scroll.scss";
+
+//block about
+@import "blocks/about/about.scss";
+// block skills
+@import "blocks/skills/skills.scss";
+@import "blocks/skills/content.scss";
+@import "blocks/skills/skill.scss";
+@import "blocks/skills/preview.scss";
+@import "blocks/skills/column.scss";
+@import "blocks/skills/arrow.scss";
+@import "blocks/skills/desc.scss";
+//block review
+@import "blocks/review/review.scss";
+//block footer
+@import "blocks/footer/footer.scss";
+@import "blocks/footer/block.scss";
+@import "blocks/footer/social.scss";

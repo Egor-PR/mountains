@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+  margin-top: 64px;
+}
+
+.header__buttons {
+  display: flex;
+}
+.header__networks{
+display: flex;
+}
+.header__logo{
+  width: 45px;
+  height: 25px;
+  font-weight: bold;
+  color:#464d62;
+  display: flex;
+  align-items: center;
+}

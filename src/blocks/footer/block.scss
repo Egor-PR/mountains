@@ -1,0 +1,34 @@
+.block {
+  display: flex;
+  align-items: center;
+  margin-right: 135px;
+}
+
+.year {
+  font-size: 45px;
+  font-weight: bold;
+  color: #494b50;
+  margin-right: 60px;
+  margin-left: 130px;
+
+}
+
+.name {
+  color: white;
+
+}
+
+.website {
+  color: #67696f;
+}
+
+.quote {
+  display: flex;
+  margin-bottom: 30px;
+  color: #67696f;
+}
+
+.author {
+  color: white;
+  font-style: italic;
+}

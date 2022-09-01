@@ -1,0 +1,80 @@
+.about {
+  position: relative;
+
+}
+
+.block__about {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 53px;
+}
+
+.block__about-info {
+  display: flex;
+  flex-direction: column;
+  margin-right: 150px;
+}
+
+.about__photo {}
+
+.about__pic {
+  padding: 0;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.about__place {
+  display: flex;
+  flex-direction: row;
+}
+
+.about__place-data {
+  margin-right: 10px;
+
+  &:last-child {
+
+    margin-right: 0;
+  }
+}
+
+.block__about-text {
+  display: flex;
+  flex-direction: column;
+  width: 430px;
+}
+
+.about__text {
+  margin-bottom: 30px;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.block__about-title {
+  margin-bottom: 30px;
+}
+
+.block__about-subtitle {}
+
+.about__text-useful {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 200px;
+}
+
+.backpack__block {
+  position: absolute;
+  bottom: -250px;
+  left: 50px;
+}
+
+.backpack__image {
+
+  width: 320px;
+  height: 450px;
+  object-fit: cover;
+}
